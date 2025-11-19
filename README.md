@@ -50,6 +50,7 @@ Links will be updated as the series goes live!
 | X | Complete DSA Patterns Course 2025 - Recap + Onboarding + Homework - Babua DSA Patterns Course | [Watch Now](https://www.youtube.com/watch?v=MwI_UZlnl6I&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=10) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/Recap%20%2B%20Homework.excalidraw.svg) | ✅ |
 | X | From NOBODY to NITK, IITM, Intuit, Adobe, CTO and finally CEO of my own Company - My Journey so far | [Watch Now](https://www.youtube.com/watch?v=vMndRzz1SRo&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=11) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/MY%20JOURNEY.svg) | ✅ |
 | 6 | Day 6/90 🔥 Solve Three Popular String Interview Questions with 1 Trick - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=IW8gQ2u2O_I&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=12) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/6_Day) | ✅ |
+| 7 | Day 7/90 - ⚡ 🚀 Fast & Slow Pointers Explained - Crack Linked List Problems in O(n) - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=FguUjuCzhj0&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=13) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/7_Day) | ✅ |
 
 ---
 
